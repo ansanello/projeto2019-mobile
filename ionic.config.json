@@ -1,0 +1,7 @@
+{
+  "name": "cadastroDeCliente",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
